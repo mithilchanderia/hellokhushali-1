@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b818bdd.css",
-    "main.js": "/static/js/main.2668a167.js",
-    "static/media/logo.png": "/static/media/logo.a88335894fc746e7a052.png",
-    "static/media/webengage.png": "/static/media/webengage.8c87b1bf1cf103f38282.png",
-    "static/media/mailchimp.jpg": "/static/media/mailchimp.22b5908cb8db19f13981.jpg",
-    "static/media/footer-bg.png": "/static/media/footer-bg.0ecbf31c1dc5d5b837f6.png",
-    "static/media/facebookbusinessmanager.jpg": "/static/media/facebookbusinessmanager.9aff50f3c054b13fc0bf.jpg",
-    "static/media/sinch.jpg": "/static/media/sinch.dfba48c5032e65a2e52e.jpg",
-    "static/media/freshdesk.jpg": "/static/media/freshdesk.dbf97fe391dcbc6dcba7.jpg",
-    "static/media/clevertap.avif": "/static/media/clevertap.50380f4141d2a55ce9e0.avif",
-    "index.html": "/index.html",
-    "static/media/ganalytics.svg": "/static/media/ganalytics.b4555b01e2f38330dba7e7fbb576e399.svg",
-    "main.0b818bdd.css.map": "/static/css/main.0b818bdd.css.map",
-    "main.2668a167.js.map": "/static/js/main.2668a167.js.map"
+    "main.css": "/portfolio-khushali/static/css/main.67e5d306.css",
+    "main.js": "/portfolio-khushali/static/js/main.938f8c2c.js",
+    "static/media/logo.png": "/portfolio-khushali/static/media/logo.a88335894fc746e7a052.png",
+    "static/media/webengage.png": "/portfolio-khushali/static/media/webengage.8c87b1bf1cf103f38282.png",
+    "static/media/mailchimp.jpg": "/portfolio-khushali/static/media/mailchimp.22b5908cb8db19f13981.jpg",
+    "static/media/footer-bg.png": "/portfolio-khushali/static/media/footer-bg.0ecbf31c1dc5d5b837f6.png",
+    "static/media/facebookbusinessmanager.jpg": "/portfolio-khushali/static/media/facebookbusinessmanager.9aff50f3c054b13fc0bf.jpg",
+    "static/media/sinch.jpg": "/portfolio-khushali/static/media/sinch.dfba48c5032e65a2e52e.jpg",
+    "static/media/freshdesk.jpg": "/portfolio-khushali/static/media/freshdesk.dbf97fe391dcbc6dcba7.jpg",
+    "static/media/clevertap.avif": "/portfolio-khushali/static/media/clevertap.50380f4141d2a55ce9e0.avif",
+    "index.html": "/portfolio-khushali/index.html",
+    "static/media/ganalytics.svg": "/portfolio-khushali/static/media/ganalytics.b4555b01e2f38330dba7e7fbb576e399.svg",
+    "main.67e5d306.css.map": "/portfolio-khushali/static/css/main.67e5d306.css.map",
+    "main.938f8c2c.js.map": "/portfolio-khushali/static/js/main.938f8c2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b818bdd.css",
-    "static/js/main.2668a167.js"
+    "static/css/main.67e5d306.css",
+    "static/js/main.938f8c2c.js"
   ]
 }
