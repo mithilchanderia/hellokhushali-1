@@ -1,53 +1,75 @@
-import bootstrap from "../images/skills/bootstrap.svg";
-import css from "../images/skills/css.svg";
-import html from "../images/skills/html.svg";
-import javascript from "../images/skills/javascript.svg";
-import materialUi from "../images/skills/material-ui.svg";
-import mongodb from "../images/skills/mongodb.svg";
-import mysql from "../images/skills/mysql.svg";
-import nodejs from "../images/skills/nodejs.svg";
-import react from "../images/skills/react.svg";
-import redux from "../images/skills/redux.svg";
+import clevertap from "../images/skills/clevertap.avif";
+import facebookbusinessmanager from "../images/skills/facebookbusinessmanager.jpg";
+import ganalytics from "../images/skills/ganalytics.svg";
+import hotjar from "../images/skills/hotjar.png";
+import mailchimp from "../images/skills/mailchimp.jpg";
+import mailmodo from "../images/skills/mailmodo.jpg";
+import plotline from "../images/skills/plotline.jpeg";
+import webengage from "../images/skills/webengage.png";
+
+import amplitude from "../images/skills/amplitude.jpg";
+import exotel from "../images/skills/exotel.jpg";
+import freshdesk from "../images/skills/freshdesk.jpg";
+import segment from "../images/skills/segment.png";
+import sinch from "../images/skills/sinch.jpg";
+import snov from "../images/skills/snov.jpg";
 
 export const productionLevelSkills = [
 	{
-		img: javascript,
-		text: "Javascript",
+		img: ganalytics,
+		text: "Google Analytics",
 	},
 	{
-		img: react,
-		text: "React",
+		img: clevertap,
+		text: "CleverTap",
 	},
 	{
-		img: redux,
-		text: "Redux",
+		img: webengage,
+		text: "Webengage",
 	},
 	{
-		img: materialUi,
-		text: "MaterialUi",
+		img: mailchimp,
+		text: "MailChimp",
 	},
 	{
-		img: nodejs,
-		text: "NodeJS",
+		img: mailmodo,
+		text: "Mailmodo",
 	},
 	{
-		img: html,
-		text: "HTML5",
+		img: facebookbusinessmanager,
+		text: "Facebook Business Manager",
 	},
 	{
-		img: css,
-		text: "CSS3",
+		img: hotjar,
+		text: "Hotjar",
 	},
 	{
-		img: bootstrap,
-		text: "Bootstrap",
+		img: plotline,
+		text: "Plotline",
 	},
 	{
-		img: mongodb,
-		text: "MongoDB",
+		img: sinch,
+		text: "Sinch",
 	},
 	{
-		img: mysql,
-		text: "MySQL",
+		img: segment,
+		text: "Segment",
+	},
+	{
+		img: snov,
+		text: "Snov",
+	},
+
+	{
+		img: amplitude,
+		text: "Amplitude",
+	},
+	{
+		img: freshdesk,
+		text: "Freshdesk",
+	},
+	{
+		img: exotel,
+		text: "Exotel",
 	},
 ];

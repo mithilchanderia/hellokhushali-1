@@ -7,7 +7,7 @@ const ProductionSkills = () => {
 			<div className="container">
 				<div className="col-lg-12 text-center services-title">
 					<h3 className="text-uppercase title-text" style={{ fontSize: 35 }}>
-						Production Level Skills
+						Tool Stack
 					</h3>
 				</div>
 				<div className="integration-list row justify-content-center py-5">
@@ -21,6 +21,7 @@ const ProductionSkills = () => {
 									className="shadow rounded-circle"
 									src={skill?.img}
 									alt={skill?.text}
+									style={{ objectFit: "scale-down" }}
 								/>
 								<p className="mt-2" style={{ fontWeight: 500 }}>
 									{skill?.text}

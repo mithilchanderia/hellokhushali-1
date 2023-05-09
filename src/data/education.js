@@ -1,35 +1,26 @@
 export const education = [
 	{
 		key: "education1",
-		title: (
-			<>
-				JLL (<i>Software Engineer ll</i>)
-			</>
-		),
+		title: <>MBA (Marketing Management), NMIMS Global School</>,
 		duration: `June 2022 - Present`,
 		infoTitle: null,
 		infoPoints: [
 			{
 				key: 1,
-				point:
-					"A graduate with an aggregate of 8.08 CGPA having good understanding of Software Development Life Cycle.",
+				point: "Currently pursuing MBA in Marketing Management",
 			},
 		],
 	},
 	{
 		key: "education2",
-		title: (
-			<>
-				B.S.G.D's Junior College (<i>Software Engineer ll</i>)
-			</>
-		),
-		duration: `Jan 2021 - June 2022`,
+		title: <>B.A (Psychology & Sociology), Mithibai College of Arts</>,
+		duration: `July 2016 - June 2019`,
 		infoTitle: null,
 		infoPoints: [
 			{
 				key: 1,
 				point:
-					"A graduate with an aggregate of 8.08 CGPA having good understanding of Software Development Life Cycle.",
+					"A Bachelor's of Arts graduate with majors in Psychology and Sociology",
 			},
 		],
 	},

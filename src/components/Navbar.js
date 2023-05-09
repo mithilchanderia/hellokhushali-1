@@ -25,7 +25,12 @@ const Navbar = () => {
 					id="top-nav-fixed"
 				>
 					<a className="navbar-brand" href="/" style={{ marginLeft: "5%" }}>
-						<img src={logo} width="60px" alt="logo" />
+						<img
+							src={logo}
+							width="60px"
+							alt="logo"
+							style={{ borderRadius: "50%" }}
+						/>
 					</a>
 					<input
 						className="toggle mobile-show"
@@ -52,7 +57,7 @@ const Navbar = () => {
 					>
 						<div className="me-auto"></div>
 						<ul className="navbar-nav">
-							<li className="nav-item active">
+							{/* <li className="nav-item active">
 								<a className="nav-link" href="/">
 									Home
 								</a>
@@ -61,7 +66,7 @@ const Navbar = () => {
 								<a
 									className="nav-link"
 									rel="noreferrer"
-									href="https://github.com/alok722"
+									href="https://github.com/"
 									target="_blank"
 								>
 									<mark>Projects</mark>
@@ -71,7 +76,7 @@ const Navbar = () => {
 								<a className="nav-link" href="/">
 									<mark>Certificates</mark>
 								</a>
-							</li>
+							</li> */}
 							<li className="nav-item align-self-center mb-2">
 								<input
 									className="toggle desktop-show"

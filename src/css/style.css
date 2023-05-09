@@ -552,6 +552,10 @@ input:checked + .slider:before {
 	.resume-div {
 		margin-top: 8%;
 	}
+
+	.container {
+		max-width: 1140px;
+	}
 }
 
 /* Theme Slider CSS end here */
