@@ -99,7 +99,7 @@ const Banner = () => {
 									className="btn button secondary-button text-uppercase second-btn"
 									style={{ padding: ".45rem .75rem" }}
 								>
-									<a href="tel:+91-8240159173">Hire Me</a>
+									<a href="tel:+91-9630594080">Hire Me</a>
 								</button>
 							</div>
 						</div>
