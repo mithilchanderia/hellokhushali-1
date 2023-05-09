@@ -3,9 +3,12 @@ import { MdMenu } from "react-icons/md";
 import logo from "../images/logo/logo.png";
 
 const Navbar = () => {
-	const [isThemeLight, setIsThemeLight] = useState(true);
+	const [isThemeLight, setIsThemeLight] = useState(
+		JSON.parse(localStorage.getItem("portfolio-theme")) === false ? false : true
+	);
 
 	const handleThemeChange = () => {
+		localStorage.setItem("portfolio-theme", JSON.stringify(!isThemeLight));
 		setIsThemeLight(!isThemeLight);
 	};
 
