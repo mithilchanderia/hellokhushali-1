@@ -10,11 +10,21 @@ import webengage from "../images/skills/webengage.png";
 import amplitude from "../images/skills/amplitude.jpg";
 import exotel from "../images/skills/exotel.jpg";
 import freshdesk from "../images/skills/freshdesk.jpg";
+import hubspot from "../images/skills/hubspot.jpg";
+import salesforce from "../images/skills/salesforce.jpg";
 import segment from "../images/skills/segment.png";
 import sinch from "../images/skills/sinch.jpg";
 import snov from "../images/skills/snov.jpg";
 
 export const productionLevelSkills = [
+	{
+		img: hubspot,
+		text: "Hubspot",
+	},
+	{
+		img: salesforce,
+		text: "Salesforce",
+	},
 	{
 		img: ganalytics,
 		text: "Google Analytics",
